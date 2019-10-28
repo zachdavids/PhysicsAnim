@@ -1,2 +1,2 @@
 # IKPhysicsAnimation
-Physics Animation &amp; IK Feet Placement in Unreal Engine
+Physical Animation &amp; IK Feet Placement in Unreal Engine
