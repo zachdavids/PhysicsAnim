@@ -2,7 +2,7 @@
 ***
 
 <p align="center">
-<img src="Wolfenstein.gif">
+<img src="PhysicsAnim.gif">
 </p>
 
 Physical Animation &amp; IK Feet Placement in Unreal Engine
